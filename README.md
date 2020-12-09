@@ -1,4 +1,4 @@
-# Pr-cticaLaboratorio02-Servlets_JSP_JPA
+# PrácticaLaboratorio02-Servlets_JSP_JPA
 ### TÍTULO PRÁCTICA: 
 Desarrollo de una aplicación JEE basado en Servlets, JSP y JPA para el intercambio de datos en un modelo de tres capas aplicando los patrones diseño de software MVC y DAO
 
