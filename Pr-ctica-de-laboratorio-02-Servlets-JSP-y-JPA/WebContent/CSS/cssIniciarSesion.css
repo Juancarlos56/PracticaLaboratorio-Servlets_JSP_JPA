@@ -1,0 +1,49 @@
+
+@charset "ISO-8859-1";
+form {
+   
+}
+
+
+h2 {
+    margin-left: 37%;
+    margin-top: 7%;
+    margin-bottom: -4%;
+    font-size: 25px;
+    font-family: inherit;
+    color: rgb(253, 76, 0);
+}
+
+input {
+    margin-top: 5%;
+    margin-left: 37%;
+    font-size: 25px;
+    font-family: none;
+}
+
+.boton {
+    margin-top: 5%;
+    font-family: none;
+    border-style: groove;
+    margin-left: 45%;
+    color: rgb(3, 152, 158);
+    border-color: rgb(253, 76, 0);
+}
+
+.imagenEncabezado {
+    margin-left: 40%;
+    margin-top: 40px
+}
+
+
+.cuadrado {
+	background: #b8b1b18c;
+    margin-top: 6%;
+    margin-left: 16%;
+    width: 59%;
+    height: 328px;
+    padding: 21px;
+    padding-left: 54px;
+}
+
+
